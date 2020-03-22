@@ -1,4 +1,4 @@
-package zadanie1;
+package zjazd_1.zadanie1;
 
 public class TestGit {
 
